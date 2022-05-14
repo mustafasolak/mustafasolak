@@ -3,7 +3,8 @@ Hi 👋 My name is Mustafa SOLAK
 
 Mobile Application Developer and Designer
 -----------------------------------------
-
+<a href="https://www.github.com/mustafasolak" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/mustafasolak?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 Working for 15 years in IT.
 
 * 🌍  I'm based in İstanbul
@@ -14,8 +15,7 @@ Working for 15 years in IT.
 * 🤝  I'm open to collaborating on Team works
 * ⚡  Coding keeps me alive :)
 
-<a href="https://www.github.com/mustafasolak" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/mustafasolak?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 
 ### Skills
 
