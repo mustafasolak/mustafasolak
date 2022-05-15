@@ -1,7 +1,7 @@
 Hi 👋 My name is Mustafa SOLAK
 ==============================
 
-Mobile Application Developer and Designer
+Mobile and Web Application Developer
 -----------------------------------------
 
 Working for 15 years in IT.
