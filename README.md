@@ -1,7 +1,7 @@
 Hi 👋 My name is Mustafa SOLAK
 ==============================
 
-Mobile and Web Application Developer
+Software Developer
 -----------------------------------------
 
 Working for 15 years in IT.
@@ -9,7 +9,7 @@ Working for 15 years in IT.
 * 🌍  I'm based in İstanbul
 * 🖥️  See my portfolio at [mustafasolak.com](http://mustafasolak.com)
 * ✉️  You can contact me at [mustafasolak48@gmail.com](mailto:mustafasolak48@gmail.com)
-* 🚀  I'm currently working on [Istanbul Technic University Vocational High School](http://itumtal.meb.k12.tr)
+* 🚀  I'm currently working on [Ev Okulu Derneği](http://evokulu.org)
 * 🧠  I'm learning Flutter, NodeJs
 * 🤝  I'm open to collaborating on Team works
 * ⚡  Coding keeps me alive :)
