@@ -4,7 +4,6 @@ Hi 👋 My name is Mustafa SOLAK
 Software Developer
 -----------------------------------------
 
-Working for 15 years in IT.
 
 * 🌍  I'm based in İstanbul
 * 🖥️  See my portfolio at [mustafasolak.com](http://mustafasolak.com)
