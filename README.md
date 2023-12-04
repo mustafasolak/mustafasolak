@@ -4,14 +4,10 @@ Hi 👋 My name is Mustafa SOLAK
 Software Developer
 -----------------------------------------
 
-
-* 🌍  I'm based in İstanbul
-* 🖥️  See my portfolio at [mustafasolak.com](http://mustafasolak.com)
 * ✉️  You can contact me at [mustafasolak48@gmail.com](mailto:mustafasolak48@gmail.com)
 * 🚀  I'm currently working on [Ev Okulu Derneği](http://evokulu.org)
-* 🧠  I'm learning Flutter, NodeJs
-* 🤝  I'm open to collaborating on Team works
-* ⚡  Coding keeps me alive :)
+* 🖥️  See my portfolio at [mustafasolak.com](http://mustafasolak.com)
+* 🧠  Lifelong learner
 
 <a href="https://www.github.com/mustafasolak" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mustafasolak?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
